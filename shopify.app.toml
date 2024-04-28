@@ -24,4 +24,4 @@ embedded = false
 
 [build]
 automatically_update_urls_on_dev = true
-dev_store_url = "oroa-development.myshopify.com"
+dev_store_url = "baanakom.myshopify.com"
